@@ -1,12 +1,11 @@
 export const towns = [
   { name: 'Tupelo', slug: 'tupelo', businesses: 0 },
-  { name: 'Baldwyn', slug: 'baldwyn', businesses: 0 },
   { name: 'Verona', slug: 'verona', businesses: 0 },
-  { name: 'Shannon', slug: 'shannon', businesses: 0 },
+  { name: 'Baldwyn', slug: 'baldwyn', businesses: 0 },
   { name: 'Guntown', slug: 'guntown', businesses: 0 },
-  { name: 'Plantersville', slug: 'plantersville', businesses: 0 },
+  { name: 'Saltillo', slug: 'saltillo', businesses: 0 },
+  { name: 'Shannon', slug: 'shannon', businesses: 0 },
 ];
-
 export const categories = [
   { name: 'Restaurants & Dining', slug: 'restaurants-dining', icon: '🍽️', count: 0 },
   { name: 'Shopping & Retail', slug: 'shopping-retail', icon: '🛍️', count: 0 },
@@ -27,7 +26,6 @@ export const categories = [
   { name: 'Accommodations', slug: 'accommodations', icon: '🏨', count: 0 },
   { name: 'Appliances & Rentals', slug: 'appliances-rentals', icon: '🔌', count: 0 },
 ];
-
 export const navLinks = [
   { label: 'Home', href: '/' },
   { label: 'Listings', href: '/listings/' },
